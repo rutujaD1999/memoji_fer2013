@@ -4,3 +4,9 @@ Happy
 Sad
 Surprise
 Neutral
+HAPPY
+FEAR
+
+
+
+
